@@ -1,14 +1,14 @@
 # Memory-Matching-Game
-Overview
+
 The Memory Matching Game is a simple Java-based game where players flip cards to find matching pairs. The game consists of a 4x4 grid (16 cards), where 8 pairs of matching cards exist. The goal is to match all the pairs before time runs out.
-How to Play
+How to Play:
 Click on a card to reveal its hidden image.
 Click on a second card:
 If the two cards match, they stay flipped.
 If they don't match, they flip back after 1 second.
 The game ends when all 8 pairs are matched.
 If time runs out before all pairs are matched, you lose.
-Features
+Features:
 4x4 Grid: 16 cards with randomized images.
 Pairs Matching: 8 pairs
 Timer: 60-second countdown to complete the game.
